@@ -1,0 +1,1 @@
+print('Set a new login method')
